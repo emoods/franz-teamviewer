@@ -1,0 +1,13 @@
+{
+    "id": "teamviewer",
+    "name": "teamviewer",
+    "version": "1.0.1",
+    "description": "TeamViewer Chat",
+    "main": "index.js",
+    "author": "Philipp Rüger <emoodsdev@gmail.com>",
+    "license": "MIT",
+    "repository": "https://github.com/emoods/franz-teamviewer",
+    "config": {
+      "serviceURL": "https://integratedchat.teamviewer.com/"
+    }
+  }
