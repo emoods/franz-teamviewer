@@ -1,4 +1,4 @@
-//don't blame me for that peace of code :)
+//don't blame me for that piece of code :)
 const path = require('path');
 
 module.exports = (Franz) => {
